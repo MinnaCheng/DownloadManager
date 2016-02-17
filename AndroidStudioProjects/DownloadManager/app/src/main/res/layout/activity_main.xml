@@ -7,7 +7,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.androidapps.cm.downloadmanager.MainActivity">
+    tools:context=".com.androidapps.cm.downloadmanager.MainActivity">
 
     <LinearLayout
         android:orientation="vertical"
@@ -52,12 +52,5 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
             android:id="@+id/progressBar" />
-        <TextView
-            android:visibility="invisible"
-            android:layout_gravity="center"
-            android:layout_marginTop="30dp"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/sucess"/>
     </LinearLayout>
 </RelativeLayout>

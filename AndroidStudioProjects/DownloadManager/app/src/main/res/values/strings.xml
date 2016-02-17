@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DownloadManager</string>
+    <string name="download">开始下载</string>
+    <string name="cancle">取消下载</string>
+    <string name="pouse">暂停下载</string>
+    <string name="sucess">下载成功</string>
+    <string name="undo">下载失败</string>
+</resources>
